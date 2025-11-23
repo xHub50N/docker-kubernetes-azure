@@ -1,5 +1,5 @@
 # DockerKubernetesAzure
-https://xhub50n.github.io/DockerKubernetesAzure/
+https://xhub50n.github.io/docker-kubernetes-azure/
 
 This is an documentation of creating and deploying web application to create login token. These containers have been deployment via kubernetes to azure AKS.
 
